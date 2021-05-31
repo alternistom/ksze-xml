@@ -1,2 +1,1 @@
-# ksze-xml
-ksze in xml format
+# Revidiált Károli Biblia (KSZE) in XML
